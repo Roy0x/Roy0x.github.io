@@ -1,0 +1,15 @@
+# Spoiler Shield curated starter feed v0.4
+# Public generic story-reveal phrases; safe for demo/testing.
+# Exact spoilers require trusted sourcing and review before publication.
+the secret ending is
+the ending reveals
+the final boss is
+the killer turns out to be
+the betrayal happens at the end
+the final mission reveals
+the post credits scene reveals
+lucia dies at the end
+jason dies at the end
+lucia betrays jason
+jason betrays lucia
+purple dragon ending
